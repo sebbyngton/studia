@@ -5,6 +5,6 @@ Ma:
 -top 5 na każdy poziom trudności
 -tryb zakładu dla prawdziwych hazardzistów
 
-Sterowanie: wpisuj to co program Ci mówi że masz do wyboru
+Żeby zagrać należy pobrać i odpalić w Visual Studio lub skopiować kod i wkleić do kompilatora online
 
-glhf
+Sterowanie: wpisuj to co program Ci mówi że masz do wyboru
